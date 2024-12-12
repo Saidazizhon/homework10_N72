@@ -1,0 +1,48 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "img": "https://picsum.photos/200",
+      "title": "Hello World",
+      "desc": "lorem ipsum dolor"
+    },
+    {
+      "id": "6ca1",
+      "img": "https://picsum.photos/500",
+      "title": "shass",
+      "desc": "sgajkd"
+    },
+    {
+      "id": "b037",
+      "img": "https://picsum.photos/100",
+      "title": "sgd",
+      "desc": "gdsbhffhhd"
+    },
+    {
+      "id": "f916",
+      "img": "https://picsum.photos/900",
+      "title": "sfdgh",
+      "desc": "agshdg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "img": "https://picsum.photos/200",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "72dd",
+      "img": "https://picsum.photos/1000",
+      "name": "Md",
+      "email": "fs@gmail.com"
+    },
+    {
+      "id": "697e",
+      "img": "https://picsum.photos/800",
+      "name": "dfgh",
+      "email": "ssghbds26@gmail.com"
+    }
+  ]
+}

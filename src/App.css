@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    text-align: center;
+    width: 200px;
+}
+.card_img{
+    width:100%;
+}
+.inputs{
+    margin-left: 400px;
+    padding: 10px;
+}
